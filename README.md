@@ -10,7 +10,7 @@ Extract necessary information about Products and Customers
 Make necessary dashboard
 Find key metrics and factors and show the meaningful relationships between attributes
 Dataset 📀
-Adventure-Works Data
+https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3Y-Q8
 
 Technology �
 Business Intelligence
@@ -28,7 +28,7 @@ Tools 🛠
 Jupyter Notebook, MS-Excel, MS-Power BI
 
 Approach (Architecture) ⚙
-App Screenshot
+https://user-images.githubusercontent.com/69301816/188277362-3fe42c14-97a2-437e-bb96-4d0c812d0136.JPG
 
 Conclusion 💡
 A sizable portion of the clientele is made up of people between the ages of 40 and 59
@@ -46,25 +46,7 @@ Customers with a high school diploma and modest annual income buy more products 
 According to the customer segmentation described above, approximately 15% of our clients are high value clients, whereas the majority of our clientele are low value and lost clients
 Client retention in 2014 was subpar
 2016 brought about a slight improvement in retention
-📖 Documentation
-High Level Documentation
 
-Low Level Documentation
-
-Architecture Documentation
-
-WireFrame
-
-Detail Project Report
-
-🎉 Help Me Improve
-Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap
-
-LinkedIn Post 📲
-LinkedIn Post
-
-Youtube Video 🎬
-Video post
 
 📫 Feedback
-If you have any feedback, please reach out to me via LinkedIn
+If you have any feedback, please reach out to me via www.linkedin.com/in/amanselfbelieve123
