@@ -10,6 +10,7 @@ Extract necessary information about Products and Customers
 Make necessary dashboard
 Find key metrics and factors and show the meaningful relationships between attributes
 Dataset 📀
+
 https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3Y-Q8
 
 Technology �
@@ -28,6 +29,7 @@ Tools 🛠
 Jupyter Notebook, MS-Excel, MS-Power BI
 
 Approach (Architecture) ⚙
+
 https://user-images.githubusercontent.com/69301816/188277362-3fe42c14-97a2-437e-bb96-4d0c812d0136.JPG
 
 Conclusion 💡
