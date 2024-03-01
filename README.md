@@ -1,3 +1,6 @@
+Glimpse of the Analysis!!!
+![Screenshot 2024-02-29 233900](https://github.com/Selfbelieve/Budget-Sales-Analysis---ineuron.ai/assets/112850255/3f0fe895-2394-49d4-9fe8-263e362e820e)
+
 # Budget-Sales-Analysis---ineuron.ai
 Objective 🎯
 The goal of this project is to analysis the sales budget data, extract necessary information about Products and Customers based on a combination of features and make a dashboard to review the performance of the company.
