@@ -30,7 +30,7 @@ Jupyter Notebook, MS-Excel, MS-Power BI
 
 Approach (Architecture) ⚙
 
-https://user-images.githubusercontent.com/69301816/188277362-3fe42c14-97a2-437e-bb96-4d0c812d0136.JPG
+![Screenshot 2024-03-01 112058](https://github.com/Selfbelieve/Budget-Sales-Analysis---ineuron.ai/assets/112850255/66e57257-c82f-4886-9e6d-02a025f364ba)
 
 Conclusion 💡
 A sizable portion of the clientele is made up of people between the ages of 40 and 59
